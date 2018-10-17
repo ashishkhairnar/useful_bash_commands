@@ -1,9 +1,11 @@
-View script
+**_Rules_** -
 
-Understand
+1 - View script and downlaod it
 
-Edit
+2 - Understand it
 
-Execute
+3 - Edit it per your need
 
-Automate
+4 - Execute
+
+5 - **_DON'T repeat_** - Automate ;)
