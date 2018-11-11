@@ -8,4 +8,4 @@
 
 4 - Execute it
 
-5 - **_DON'T repeat_** - Automate it ;)
+5 - **_DON'T repeat_** - **Automate it** ;)
