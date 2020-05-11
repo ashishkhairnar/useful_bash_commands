@@ -1,4 +1,6 @@
-# Storing iptables in Kali is painful. To ease the process, you may following -
+# IPTables on Kali:
+
+Storing iptables in Kali is painful. To ease the process, you may following -
 
 ```bash# iptables-save > /etc/iptables/iptables.conf```
 
