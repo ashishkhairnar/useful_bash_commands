@@ -8,6 +8,6 @@ Storing iptables in Kali is painful. To ease the process, you may following -
 bash# crontab -e
 
 # m h  dom mon dow   command
-### @reboot /sbin/iptables-restore < /etc/iptables/iptables.conf```
+**@reboot /sbin/iptables-restore < /etc/iptables/iptables.conf**```
 
 Even after reboot, your iptables will persist.
