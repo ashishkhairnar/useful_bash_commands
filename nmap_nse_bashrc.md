@@ -1,8 +1,10 @@
-# Add to .bashrc
+## Add to .bashrc ##
 
 ```nse(){ find /usr/share/nmap/scripts/ -iname "*$1*" -printf '%P\n'; }```
 
-```Usage:
+*OUTPUT:*
+```
+Usage:
 
 root@kali:~$ nse smb
 smb-system-info.nse
