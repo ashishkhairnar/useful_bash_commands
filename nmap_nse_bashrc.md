@@ -1,12 +1,17 @@
 ## Add to .bashrc ##
 
-```nse(){ find /usr/share/nmap/scripts/ -iname "*$1*" -printf '%P\n'; }```
+```
+echo "nse(){ find /usr/share/nmap/scripts/ -iname "*$1*" -printf '%P\n'; }" >> ~/.bashrc
 
-*OUTPUT:*
+```
+
+
 ```
 Usage:
 
-root@kali:~$ nse smb
+root@kali:~# source ~/.bashrc
+
+root@kali:~# nse smb
 smb-system-info.nse
 smb-vuln-ms17-010.nse
 smb-brute.nse
