@@ -1,7 +1,7 @@
 ## Add to .bashrc ##
 
 ```
-echo 'nse1(){ find /usr/share/nmap/scripts/ -iname "*$1*" -printf "%P\n"; }' >> ~.bashrc
+echo 'nse1(){ find /usr/share/nmap/scripts/ -iname "*$1*" -printf "%P\n"; }' >> ~/.bashrc
 
 ```
 
